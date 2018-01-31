@@ -1,6 +1,9 @@
 Changelog
 =========
 
+5.1.2
+-----
+#. Update to Django 1.11
 
 5.1.1
 -----
